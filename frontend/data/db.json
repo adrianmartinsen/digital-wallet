@@ -1,0 +1,19 @@
+{
+  "wallets": [
+    {
+      "title": "Test Wallet 1",
+      "id": 1,
+      "amount": 200
+    },
+    {
+      "title": "Test Wallet 2",
+      "id": 2,
+      "amount": 60
+    },
+    {
+      "title": "Test Wallet 3",
+      "id": 3,
+      "amount": 90
+    }
+  ]
+}
